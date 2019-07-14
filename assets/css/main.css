@@ -221,6 +221,7 @@ input, select, textarea {
 	}
 	ul {
 	  text-align: left;
+		padding-left: 0px
 	}
 	code {
 		background: rgba(144, 144, 144, 0.075);
