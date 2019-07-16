@@ -1,5 +1,5 @@
 Hello!
 
-You can find my website [here.](actual URL to navigate)
+Press the link below to navigate to my website.
 
-Alternatively, the url for my website is https://jonathany7.github.io/
+https://jonathany7.github.io/
